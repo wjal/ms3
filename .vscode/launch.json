@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/jameslittle/Desktop/senecaSemester3/BTP305/milestone1",
+      "program": "/Users/jameslittle/Desktop/senecaSemester3/BTP305/milestone1/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
